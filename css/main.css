@@ -87,6 +87,117 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+/* -----------HEADER & FOOTER STYLES------------- */
+
+header{
+  display: flex;
+justify-content: center;
+align-items: center;
+flex-flow: row wrap;
+
+
+}
+
+header .content-wrapper{
+  display: flex;
+justify-content: center;
+align-items: center;
+flex-flow: row wrap;
+
+}
+
+header nav{
+  display: flex;
+justify-content: center;
+align-items: center;
+flex-flow: row wrap;
+
+}
+
+footer{
+  display: flex;
+justify-content: center;
+align-items: center;
+flex-flow: row wrap;
+
+}
+
+
+aside{
+  display: flex;
+justify-content: center;
+align-items: center;
+flex-flow: row wrap;
+}
+
+
+.features{
+  display: flex;
+justify-content: center;
+align-items: center;
+flex-flow: row wrap;
+}
+
+
+.reviews{
+  display: flex;
+justify-content: center;
+align-items: center;
+flex-flow: row wrap;
+}
+
+
+.mission{
+  display: flex;
+justify-content: center;
+align-items: center;
+flex-flow: row wrap;
+}
+
+
+.contact-section{
+  display: flex;
+justify-content: center;
+align-items: center;
+flex-flow: row wrap;
+}
+
+
+.faq{
+  display: flex;
+justify-content: center;
+align-items: center;
+flex-flow: row wrap;
+}
+
+
+.faq content-wrapper{
+  display: flex;
+justify-content: center;
+align-items: center;
+flex-flow: row wrap;
+}
+
+/*    --------------MOBILE STYLES - HOMEPAGE---------------   */
+
+.hero-area{
+
+}
+
+
+aside{
+
+
+}
+
+.features{
+
+}
+
+.reviews{
+
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
@@ -260,4 +371,3 @@ textarea {
     page-break-after: avoid;
   }
 }
-
